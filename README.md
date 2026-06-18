@@ -1,2 +1,3 @@
 # skills-copilot-codespaces-vscode
-My clone repository
+Process ot interagte my githup to vs code 
+
